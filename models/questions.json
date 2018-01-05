@@ -1,0 +1,23 @@
+[
+  {
+    "text": "What is your name",
+    "choices": [
+      {
+        "text": "Anoop",
+        "answer": true
+      },
+      {
+        "text": "Anvita",
+        "answer": false
+      },
+      {
+        "text": "Neethu",
+        "answer": false
+      },
+      {
+        "text": "Vipin",
+        "answer": false
+      }
+    ]
+  } 
+]
