@@ -15,3 +15,13 @@ $yarn install
 ```
 $ yarn start
 ```
+
+### API
+
+`fetch(url)`
+
+The following endpoints are available:  
+
+`GET /questions`  
+  **USAGE:**   
+    Get all of the questions available for the app.
