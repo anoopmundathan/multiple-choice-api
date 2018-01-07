@@ -4,6 +4,7 @@ const logger = require('morgan');
 
 // Routes
 const questions = require('./routes/questions');
+const answers = require('./routes/answers');
 
 const app = express();
 
@@ -29,6 +30,7 @@ app.get('/', (req, res) => {
 
 // Routes
 app.use('/questions', questions);
+app.use('/answers', answers);
 
 // Catch 404 Errors and  forward then to error handler
 app.use((req, res, next) => {

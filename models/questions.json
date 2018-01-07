@@ -1,108 +1,36 @@
 [
   {
-    "text": "Question 1 goes here?.",
+    "text": "What was the name of first computer designed by Charlse Babbage?",
     "choices": [
       {
-        "text": "Option 1",
-        "answer": false
+        "text": "Analytical Engine"
       },
       {
-        "text": "Option 2",
-        "answer": true
+        "text": "Difference Engine"
       },
       {
-        "text": "option 3",
-        "answer": false
+        "text": "Colossus"
       },
       {
-        "text": "Option 4",
-        "answer": false
-      }
-    ]
-  },
-   {
-    "text": "Question 2 goes here?.",
-    "choices": [
-      {
-        "text": "Choice 1",
-        "answer": true
-      },
-      {
-        "text": "Choice 2",
-        "answer": false
-      },
-      {
-        "text": "Choice 3",
-        "answer": false
-      },
-      {
-        "text": "Choice 4",
-        "answer": false
-      }
-    ]
-  },
-   {
-    "text": "Question 3 goes here?.",
-    "choices": [
-      {
-        "text": "Option 1",
-        "answer": false
-      },
-      {
-        "text": "Option 2",
-        "answer": false
-      },
-      {
-        "text": "option 3",
-        "answer": true
-      },
-      {
-        "text": "Option 4",
-        "answer": false
-      }
-    ]
-  },
-   {
-    "text": "Question 4 goes here?.",
-    "choices": [
-      {
-        "text": "Choice 1",
-        "answer": true
-      },
-      {
-        "text": "Choice 2",
-        "answer": false
-      },
-      {
-        "text": "Choice 3",
-        "answer": false
-      },
-      {
-        "text": "Choice 4",
-        "answer": true
+        "text": "ENIAC"
       }
     ]
   },
   {
-    "text": "Question 5 goes here?.",
+    "text": "Who invented the punch card?",
     "choices": [
       {
-        "text": "Select 1",
-        "answer": true
+        "text": "Charles Babbage"
       },
       {
-        "text": "Select 2",
-        "answer": false
+        "text": "Semen Korsakov"
       },
       {
-        "text": "Select 3",
-        "answer": false
+        "text": "Herman Hollerith"
       },
       {
-        "text": "Select 4",
-        "answer": false
+        "text": "Joseph Marie Jacquard"
       }
     ]
   }
-   
 ]
