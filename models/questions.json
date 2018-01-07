@@ -32,5 +32,22 @@
         "text": "Joseph Marie Jacquard"
       }
     ]
+  },
+  {
+    "text": "Step-by-step instructions that solve a problem are called",
+    "choices": [
+      {
+        "text": "An algorithm"
+      },
+      {
+        "text": "A list"
+      },
+      {
+        "text": "A Plan"
+      },
+      {
+        "text": "A structure"
+      }
+    ]
   }
 ]

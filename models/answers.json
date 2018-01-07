@@ -2,5 +2,13 @@
   {
     "question": "What was the name of first computer designed by Charlse Babbage?",
     "answer": "Difference Engine"
+  },
+  {
+    "question": "Who invented the punch card?",
+    "answer": "Herman Hollerith"
+  },
+  {
+    "question": "Step-by-step instructions that solve a problem are called",
+    "answer": "An algorithm"
   }
 ]
